@@ -1,0 +1,61 @@
+return {
+  -- "xiyaowong/transparent.nvim",
+  -- lazy = false, -- Chạy ngay khi khởi động
+  -- config = function()
+  --   require("transparent").setup({
+  --     -- Các nhóm highlight mặc định sẽ được xóa nền
+  --     groups = {
+  --       "Normal",
+  --       "NormalNC",
+  --       "Comment",
+  --       "Constant",
+  --       "Special",
+  --       "Identifier",
+  --       "Statement",
+  --       "PreProc",
+  --       "Type",
+  --       "Underlined",
+  --       "Todo",
+  --       "String",
+  --       "Function",
+  --       "Conditional",
+  --       "Repeat",
+  --       "Operator",
+  --       "Structure",
+  --       "LineNr",
+  --       "NonText",
+  --       "SignColumn",
+  --       "CursorLine",
+  --       "CursorLineNr",
+  --       "StatusLine",
+  --       "StatusLineNC",
+  --       "EndOfBuffer",
+  --     },
+  --     -- Thêm các nhóm bổ sung cho các plugin của LazyVim
+  --     extra_groups = {
+  --       "NormalFloat", -- Cửa sổ nổi (LSP, hover)
+  --       "FloatBorder", -- Viền cửa sổ nổi
+  --       "TelescopeNormal",
+  --       "TelescopeBorder",
+  --       "TelescopePromptBorder",
+  --       "SagaNormal",
+  --       "SagaBorder",
+  --       "NeoTreeNormal",
+  --       "NeoTreeNormalNC",
+  --       "NeoTreeWinSeparator",
+  --       "MasonNormal",
+  --       "LazyNormal", -- Cửa sổ quản lý plugin Lazy
+  --       "NoiceCmdline", -- Thanh lệnh của Noice
+  --       "NoicePopupmenu",
+  --       "BlinkCmpMenu", -- Menu gợi ý của nvim-cmp
+  --       "BlinkCmpDoc",
+  --       "BlinkCmpMenuBorder",
+  --       "BlinkCmpDocBorder",
+  --     },
+  --     exclude_groups = {}, -- Các nhóm bạn KHÔNG muốn làm trong suốt
+  --   })
+  --
+  --   -- Lệnh để ép buộc chạy (đôi khi theme ghi đè sau khi load)
+  --   vim.cmd("TransparentEnable")
+  -- end,
+}

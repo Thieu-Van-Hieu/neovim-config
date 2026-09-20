@@ -1,0 +1,1504 @@
+
+
+
+n  <Tab>       * <Cmd>BufferLineCycleNext<CR>
+                 Next Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <Tab>       * >gv
+                 Indent right in visual mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+s  <Esc>       * <Lua 1065: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:49>
+                 Escape and Clear hlsearch
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Esc>       * <Lua 1066: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:49>
+                 Escape and Clear hlsearch
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>C    * <Lua 182: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/utils/plugins/suggestions/copilot-utils.lua:30>
+                 Copilot AI
+	Last set from Lua (run Nvim with -V1 for more details)
+v  <Space>/      gc
+                 Comment Selection
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bst  * <Cmd>BufferLineSortByTabs<CR>
+                 By Window ID
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bsr  * <Cmd>BufferLineSortByRelativeDirectory<CR>
+                 By Relative Directory
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bse  * <Cmd>BufferLineSortByExtension<CR>
+                 By Extension
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bsd  * <Cmd>BufferLineSortByDirectory<CR>
+                 By Directory
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bmb  * <Cmd>BufferLineMovePrev<CR>
+                 Reorder Previous
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bmm  * <Cmd>BufferLineMoveNext<CR>
+                 Reorder Next
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bcg  * <Cmd>BufferLineGroupClose<CR>
+                 Close Group
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bcC  * <Cmd>BufferLinePickClose<CR>
+                 Pick to Close
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bcr  * <Cmd>BufferLineCloseRight<CR>
+                 Close Right
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bcl  * <Cmd>BufferLineCloseLeft<CR>
+                 Close Left
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bca  * <Cmd>BufferLineCloseOthers<CR>
+                 Close All Others
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bcc  * <Lua 922: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/buffer.lua:1>
+                 Close Current
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bt   * <Cmd>BufferLineGroupToggle<CR>
+                 Toggle Group Visibility
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bf   * <Cmd>BufferLinePick<CR>
+                 Pick Buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>om   * <Lua 1058: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/overseer.lua:1>
+                 Run Multiple Tasks (Picker)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>[ * <Cmd>tabprevious<CR>
+                 Previous Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>d * <Cmd>tabclose<CR>
+                 Close Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>] * <Cmd>tabnext<CR>
+                 Next Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab><Tab> * <Cmd>tabnew<CR>
+                 New Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>f * <Cmd>tabfirst<CR>
+                 First Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>o * <Cmd>tabonly<CR>
+                 Close Other Tabs
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space><Tab>l * <Cmd>tablast<CR>
+                 Last Tab
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uz   * <Lua 966: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Zen Mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uZ   * <Lua 965: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Zoom Mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>wm   * <Lua 962: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Zoom Mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>wd   * <C-W>c
+                 Delete Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>|    * <C-W>v
+                 Split Window Right
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>-    * <C-W>s
+                 Split Window Below
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ft   * <Lua 137: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:191>
+                 Terminal (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fT   * <Lua 34: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:190>
+                 Terminal (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>L    * <Lua 139: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:187>
+                 LazyVim Changelog
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uI   * <Lua 927: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:184>
+                 Inspect Tree
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ui   * <Lua 926: D:/Windows/PackageManager/Scoop/apps/neovim/current/share/nvim/runtime/lua/vim/_inspector.lua:166>
+                 Inspect Pos
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>qq   * <Cmd>qa<CR>
+                 Quit All
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>gY   * <Lua 925: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:175>
+                 Git Browse (copy)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gY   * <Lua 921: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:175>
+                 Git Browse (copy)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>gB   * <Lua 920: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:174>
+                 Git Browse (open)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gB   * <Lua 917: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:174>
+                 Git Browse (open)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gl   * <Lua 896: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:173>
+                 Git Log
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gf   * <Lua 895: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:172>
+                 Git Current File History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gb   * <Lua 894: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:171>
+                 Git Blame Line
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gL   * <Lua 794: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:170>
+                 Git Log (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gG   * <Lua 793: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:167>
+                 Lazygit (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gg   * <Lua 521: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:166>
+                 Lazygit (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uh   * <Lua 603: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Inlay Hints
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dph  * <Lua 759: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Profiler Highlights
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dpp  * <Lua 758: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Profiler
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uS   * <Lua 757: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Smooth Scroll
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ug   * <Lua 755: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Indent Guides
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ua   * <Lua 753: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Animations
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uD   * <Lua 754: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Dimming
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ub   * <Lua 748: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Dark Background
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uT   * <Lua 747: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Treesitter Highlight
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uA   * <Lua 746: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Tabline
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uc   * <Lua 745: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Conceal Level
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ul   * <Lua 744: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Line Numbers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ud   * <Lua 743: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Diagnostics
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uL   * <Lua 742: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Relative Number
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uw   * <Lua 741: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Wrap
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>us   * <Lua 740: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Spelling
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uF   * <Lua 581: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Auto Format (Buffer)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uf   * <Lua 519: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Auto Format (Global)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cd   * <Lua 1062: D:/Windows/PackageManager/Scoop/apps/neovim/current/share/nvim/runtime/lua/vim/diagnostic.lua:2156>
+                 Line Diagnostics
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>cf   * <Lua 1063: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:117>
+                 Format
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cf   * <Lua 1064: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:117>
+                 Format
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xq   * <Lua 23: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:106>
+                 Quickfix List
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xl   * <Lua 24: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:98>
+                 Location List
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fn   * <Cmd>enew<CR>
+                 New File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>l    * <Cmd>Lazy<CR>
+                 Lazy
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>K    * <Cmd>norm! K<CR>
+                 Keywordprg
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ur   * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>
+                 Redraw / Clear hlsearch / Diff Update
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bD   * <Cmd>:bd<CR>
+                 Delete Buffer and Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bo   * <Lua 279: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:43>
+                 Delete Other Buffers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bd   * <Lua 99: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:40>
+                 Delete Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>`    * <Cmd>e #<CR>
+                 Switch to Other Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bb   * <Cmd>e #<CR>
+                 Switch to Other Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ue   * <Lua 201: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/ui/edgy.lua:9>
+                 Edgy Toggle
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uE   * <Lua 199: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/ui/edgy.lua:15>
+                 Edgy Select Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bl   * <Cmd>BufferLineCloseLeft<CR>
+                 Delete Buffers to the Left
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>br   * <Cmd>BufferLineTabRename<CR>
+                 Rename Tab
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>bP   * <Cmd>BufferLineGroupClose ungrouped<CR>
+                 Delete Non-Pinned Buffers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>bp   * <Cmd>BufferLineTogglePin<CR>
+                 Toggle Pin
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>uG   * <Lua 968: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/toggle.lua:120>
+                 Toggle Mini Diff Signs
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>go   * <Lua 140: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/mini-diff.lua:15>
+                 Toggle mini.diff overlay
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>snh  * <Lua 247: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:229>
+                 Noice History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>snl  * <Lua 246: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+                 Noice Last Message
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sn   * <Nop>
+                 +noice
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>snt  * <Lua 240: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:232>
+                 Noice Picker (Telescope/FzfLua)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>snd  * <Lua 239: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:231>
+                 Dismiss All
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sna  * <Lua 238: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:230>
+                 Noice All
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xX   * <Cmd>Trouble diagnostics toggle filter.buf=0<CR>
+                 Buffer Diagnostics (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xx   * <Cmd>Trouble diagnostics toggle<CR>
+                 Diagnostics (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xQ   * <Cmd>Trouble qflist toggle<CR>
+                 Quickfix List (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xL   * <Cmd>Trouble loclist toggle<CR>
+                 Location List (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cS   * <Cmd>Trouble lsp toggle<CR>
+                 LSP references/definitions/... (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>?    * <Lua 229: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:107>
+                 Buffer Keymaps (which-key)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>P    * :Pio<CR>
+                 PlatformIO Menu
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>mpr  * <Cmd>MermaidPreviewRefresh<CR>
+                 Mermaid: Re-render
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mermaid-playground.nvim/plugin/mermaid-playground.lua (run Nvim with -V1 for more details)
+n  <Space>mpS  * <Cmd>MermaidPreviewStop<CR>
+                 Mermaid: Stop preview
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mermaid-playground.nvim/plugin/mermaid-playground.lua (run Nvim with -V1 for more details)
+n  <Space>mps  * <Cmd>MermaidPreviewStart<CR>
+                 Mermaid: Start preview
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mermaid-playground.nvim/plugin/mermaid-playground.lua (run Nvim with -V1 for more details)
+n  <Space>gI   * <Lua 198: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:80>
+                 GitHub Issues (all)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gi   * <Lua 197: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:79>
+                 GitHub Issues (open)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gS   * <Lua 196: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:78>
+                 Git Stash
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gs   * <Lua 195: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:77>
+                 Git Status
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gD   * <Lua 194: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:76>
+                 Git Diff (origin)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gd   * <Lua 193: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:75>
+                 Git Diff (hunks)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fp   * <Lua 192: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:73>
+                 Projects
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fR   * <Lua 191: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:72>
+                 Recent (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fr   * <Lua 190: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Recent
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fg   * <Lua 189: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:70>
+                 Find Files (git-files)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fF   * <Lua 188: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Find Files (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ff   * <Lua 187: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Find Files (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fc   * <Lua 186: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Find Config File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fB   * <Lua 185: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:66>
+                 Buffers (all)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fb   * <Lua 184: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:65>
+                 Buffers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>:    * <Lua 183: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:61>
+                 Command History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>/      gcc
+                 Comment Line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>,    * <Lua 181: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:59>
+                 Buffers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>E      <Space>fE
+                 Explorer Snacks (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>e      <Space>fe
+                 Explorer Snacks (root dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fE   * <Lua 178: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_explorer.lua:16>
+                 Explorer Snacks (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>fe   * <Lua 177: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_explorer.lua:9>
+                 Explorer Snacks (root dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dps  * <Lua 176: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/util.lua:36>
+                 Profiler Scratch Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>S    * <Lua 175: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/util.lua:35>
+                 Select Scratch Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>.    * <Lua 174: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/util.lua:34>
+                 Toggle Scratch Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>un   * <Lua 173: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:292>
+                 Dismiss All Notifications
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>n    * <Lua 915: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/ui/notification.lua:6>
+                 Show Notification History (Snacks)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space><Space> * <Lua 171: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Find Files (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>uC   * <Lua 170: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:111>
+                 Colorschemes
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>su   * <Lua 169: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:109>
+                 Undotree
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sq   * <Lua 168: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:108>
+                 Quickfix List
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sR   * <Lua 167: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:107>
+                 Resume
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sm   * <Lua 166: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:106>
+                 Marks
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sM   * <Lua 165: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:105>
+                 Man Pages
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sl   * <Lua 164: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:104>
+                 Location List
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sk   * <Lua 163: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:103>
+                 Keymaps
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sj   * <Lua 162: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:102>
+                 Jumps
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>si   * <Lua 161: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:101>
+                 Icons
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sH   * <Lua 160: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:100>
+                 Highlights
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sh   * <Lua 159: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:99>
+                 Help Pages
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sD   * <Lua 158: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:98>
+                 Buffer Diagnostics
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sd   * <Lua 157: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:97>
+                 Diagnostics
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sC   * <Lua 156: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:96>
+                 Commands
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sc   * <Lua 155: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:95>
+                 Command History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sa   * <Lua 154: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:94>
+                 Autocmds
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>s/   * <Lua 153: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:93>
+                 Search History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>s"   * <Lua 152: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:92>
+                 Registers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>sW   * <Lua 151: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Visual selection or word (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sW   * <Lua 150: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Visual selection or word (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>sw   * <Lua 149: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Visual selection or word (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sw   * <Lua 148: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Visual selection or word (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sp   * <Lua 147: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:88>
+                 Search for Plugin Spec
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sG   * <Lua 146: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Grep (cwd)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sg   * <Lua 145: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/util/pick.lua:70>
+                 Grep (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sB   * <Lua 144: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:85>
+                 Grep Open Buffers
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sb   * <Lua 143: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:84>
+                 Buffer Lines
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gP   * <Lua 142: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:82>
+                 GitHub Pull Requests (all)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gp   * <Lua 141: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/extras/editor/snacks_picker.lua:81>
+                 GitHub Pull Requests (open)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>oo   * <Lua 443: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Open
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>oa   * <Lua 442: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Task Action
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>os   * <Lua 441: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Shell
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>or   * <Lua 440: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>o    * <Lua 439: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Overseer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>oc   * <Lua 438: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Close
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ot   * <Lua 436: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rx   * <Lua 407: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rx   * <Lua 406: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rF   * <Lua 405: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Function To File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rF   * <Lua 404: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Function To File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rc   * <Lua 403: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Debug Cleanup
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rp   * <Lua 402: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Debug Print Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rp   * <Lua 401: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Debug Print Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rP   * <Lua 400: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Debug Print
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rf   * <Lua 399: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Function
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rf   * <Lua 398: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Function
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rb   * <Lua 397: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Block
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rb   * <Lua 396: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Extract Block
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>ri   * <Lua 395: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Inline Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ri   * <Lua 394: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Inline Variable
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>rs   * <Lua 393: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Refactor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>rs   * <Lua 392: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Refactor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>r    * <Nop>
+                 +refactor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>r    * <Nop>
+                 +refactor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tw   * <Lua 391: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle Watch (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tS   * <Lua 390: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Stop (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tO   * <Lua 389: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle Output Panel (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>to   * <Lua 388: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Show Output (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ts   * <Lua 387: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle Summary (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tl   * <Lua 386: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run Last (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tr   * <Lua 385: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run Nearest (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tT   * <Lua 384: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run All Test Files (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>tt   * <Lua 383: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run File (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ta   * <Lua 381: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Attach to Test (Neotest)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>t    * <Nop>
+                 +test
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>qS   * <Lua 380: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Select Session
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>qs   * <Lua 379: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Restore Session
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>qd   * <Lua 378: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Don't Save Current Session
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ql   * <Lua 377: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Restore Last Session
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>p    * <Lua 368: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Open Yank History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>p    * <Lua 367: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Open Yank History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cn   * <Lua 338: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Generate Annotations (Neogen)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cm   * <Lua 335: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Mason
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>D    * <Lua 324: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle DBUI
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>de   * <Lua 316: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Eval
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>de   * <Lua 315: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Eval
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>du   * <Lua 314: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Dap UI
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dg   * <Lua 313: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Go to Line (No Execute)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dC   * <Lua 312: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run to Cursor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>da   * <Lua 311: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run with Args
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dc   * <Lua 310: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run/Continue
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>db   * <Lua 309: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle Breakpoint
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dB   * <Lua 308: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Breakpoint Condition
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>td   * <Lua 307: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Debug Nearest
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dw   * <Lua 306: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Widgets
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dt   * <Lua 305: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Terminate
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>ds   * <Lua 304: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Session
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dr   * <Lua 303: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Toggle REPL
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dP   * <Lua 302: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Pause
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dO   * <Lua 301: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Step Over
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>do   * <Lua 300: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Step Out
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dl   * <Lua 299: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Run Last
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dk   * <Lua 298: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>dj   * <Lua 297: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>di   * <Lua 296: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Step Into
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cs   * <Lua 291: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Aerial (Symbols)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gq   * <Lua 290: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Diffview Close
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gv   * <Lua 289: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Diffview Open
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>gH   * <Lua 287: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 File History (Current File)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>st   * <Lua 277: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Todo
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sT   * <Lua 51: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Todo/Fix/Fixme
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xT   * <Lua 275: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Todo/Fix/Fixme (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>xt   * <Lua 273: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Todo (Trouble)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>Rr   * <Lua 265: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Replay the last request
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>Rb   * <Lua 253: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Open scratchpad
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>R    * <Nop>
+                 +Rest
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>cF   * <Lua 208: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Format Injected Langs
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>cF   * <Lua 206: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Format Injected Langs
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Space>sr   * <Lua 119: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Search and Replace
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Space>sr   * <Lua 117: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Search and Replace
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  #           * <Lua 9: vim/_defaults.lua:87>
+                 :help v_#-default
+	Last set from Lua (run Nvim with -V1 for more details)
+o  %             <Plug>(MatchitOperationForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 74
+x  %             <Plug>(MatchitVisualForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 72
+n  %             <Plug>(MatchitNormalForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 70
+n  &           * :&&<CR>
+                 :help &-default
+	Last set from Lua (run Nvim with -V1 for more details)
+x  *           * <Lua 4: vim/_defaults.lua:84>
+                 :help v_star-default
+	Last set from Lua (run Nvim with -V1 for more details)
+o  ,           * <Lua 504: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ,           * <Lua 526: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ,           * <Lua 539: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ;           * <Lua 544: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ;           * <Lua 549: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ;           * <Lua 566: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <           * <gv
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <P          * <Lua 375: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Before and Indent Left
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <p          * <Lua 355: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put and Indent Left
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  =p          * <Lua 364: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put After Applying a Filter
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  =P          * <Lua 360: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Before Applying a Filter
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  >           * >gv
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  >p          * <Lua 356: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put and Indent Right
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  >P          * <Lua 353: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Before and Indent Right
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  @           * mode() ==# 'V' ? ':normal! @'.getcharstr().'<CR>' : '@'
+                 :help v_@-default
+	Last set from Lua (run Nvim with -V1 for more details)
+o  F           * <Lua 80: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  F           * <Lua 280: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  F           * <Lua 593: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  G           * <Lua 98: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/systems/move.lua:12>
+                 Jump to line (default last)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  G           * <Lua 76: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/systems/move.lua:12>
+                 Jump to line (default last)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  H           * <Cmd>BufferLineCyclePrev<CR>
+                 Prev Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  L           * <Cmd>BufferLineCycleNext<CR>
+                 Next Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  N           * 'nN'[v:searchforward]
+                 Prev Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  N           * 'nN'[v:searchforward]
+                 Prev Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  N           * 'nN'[v:searchforward].'zv'
+                 Prev Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  P           * <Lua 372: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text Before Cursor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  P           * <Lua 371: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text Before Cursor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  Q           * mode() ==# 'V' ? ':normal! @<C-R>=reg_recorded()<CR><CR>' : 'Q'
+                 :help v_Q-default
+	Last set from Lua (run Nvim with -V1 for more details)
+o  R           * <Lua 128: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:41>
+                 Treesitter Search
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  R           * <Lua 122: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:41>
+                 Treesitter Search
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  S           * <Lua 129: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:39>
+                 Flash Treesitter
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  S           * <Lua 126: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:39>
+                 Flash Treesitter
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  S           * <Lua 121: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:39>
+                 Flash Treesitter
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  T           * <Lua 293: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  T           * <Lua 580: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  T           * <Lua 589: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  Y           * y$
+                 :help Y-default
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [w          * <Lua 69: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Prev Warning
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [e          * <Lua 961: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Prev Error
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [b          * <Cmd>BufferLineCyclePrev<CR>
+                 Prev Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [B          * <Cmd>BufferLineMovePrev<CR>
+                 Move buffer prev
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  [h          * V<Cmd>lua MiniDiff.goto_hunk('prev')<CR>
+                 Previous hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  [h          * <Cmd>lua MiniDiff.goto_hunk('prev')<CR>
+                 Previous hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [h          * <Cmd>lua MiniDiff.goto_hunk('prev')<CR>
+                 Previous hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  [H          * V<Cmd>lua MiniDiff.goto_hunk('first')<CR>
+                 First hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  [H          * <Cmd>lua MiniDiff.goto_hunk('first')<CR>
+                 First hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [H          * <Cmd>lua MiniDiff.goto_hunk('first')<CR>
+                 First hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [q          * <Lua 35: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:225>
+                 Previous Trouble/Quickfix Item
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  [i          * <Lua 786: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to top edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  [i          * <Lua 785: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to top edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [i          * <Lua 784: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to top edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  [%            <Plug>(MatchitOperationMultiBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 82
+x  [%            <Plug>(MatchitVisualMultiBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 80
+n  [%            <Plug>(MatchitNormalMultiBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 78
+n  [y          * <Lua 366: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Cycle Forward Through Yank History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [p          * <Lua 361: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Indented Before Cursor (Linewise)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [P          * <Lua 357: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Indented Before Cursor (Linewise)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [[          * <Lua 102: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Prev Reference
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [<Space>    * <Lua 60: vim/_defaults.lua:427>
+                 Add empty line above cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [<C-T>      * <Lua 54: vim/_defaults.lua:391>
+                  :ptprevious
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [T          * <Lua 52: vim/_defaults.lua:377>
+                 :trewind
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [t          * <Lua 278: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Previous Todo Comment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  [A          * <Lua 48: vim/_defaults.lua:350>
+                 :rewind
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [a          * <Lua 46: vim/_defaults.lua:341>
+                 :previous
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [<C-L>      * <Lua 44: vim/_defaults.lua:332>
+                 :lpfile
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [L          * <Lua 42: vim/_defaults.lua:324>
+                 :lrewind
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [l          * <Lua 40: vim/_defaults.lua:316>
+                 :lprevious
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [<C-Q>      * <Lua 38: vim/_defaults.lua:307>
+                 :cpfile
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [Q          * <Lua 36: vim/_defaults.lua:299>
+                 :crewind
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [D          * <Lua 32: vim/_defaults.lua:263>
+                 Jump to the first diagnostic in the current buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [d          * <Lua 29: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Prev Diagnostic
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]w          * <Lua 70: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Next Warning
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]e          * <Lua 30: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Next Error
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]B          * <Cmd>BufferLineMoveNext<CR>
+                 Move buffer next
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]b          * <Cmd>BufferLineCycleNext<CR>
+                 Next Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ]H          * V<Cmd>lua MiniDiff.goto_hunk('last')<CR>
+                 Last hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ]H          * <Cmd>lua MiniDiff.goto_hunk('last')<CR>
+                 Last hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]H          * <Cmd>lua MiniDiff.goto_hunk('last')<CR>
+                 Last hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ]h          * V<Cmd>lua MiniDiff.goto_hunk('next')<CR>
+                 Next hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ]h          * <Cmd>lua MiniDiff.goto_hunk('next')<CR>
+                 Next hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]h          * <Cmd>lua MiniDiff.goto_hunk('next')<CR>
+                 Next hunk
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]q          * <Lua 138: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:239>
+                 Next Trouble/Quickfix Item
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ]i          * <Lua 789: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to bottom edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ]i          * <Lua 788: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to bottom edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]i          * <Lua 787: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:792>
+                 jump to bottom edge of scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ]%            <Plug>(MatchitOperationMultiForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 83
+x  ]%            <Plug>(MatchitVisualMultiForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 81
+n  ]%            <Plug>(MatchitNormalMultiForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 79
+n  ]y          * <Lua 363: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Cycle Backward Through Yank History
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]p          * <Lua 362: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Indented After Cursor (Linewise)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]P          * <Lua 359: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Indented After Cursor (Linewise)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]]          * <Lua 101: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Next Reference
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]<Space>    * <Lua 61: vim/_defaults.lua:433>
+                 Add empty line below cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]<C-T>      * <Lua 55: vim/_defaults.lua:396>
+                 :ptnext
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]T          * <Lua 53: vim/_defaults.lua:382>
+                 :tlast
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]t          * <Lua 276: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Next Todo Comment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  ]A          * <Lua 49: vim/_defaults.lua:358>
+                 :last
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]a          * <Lua 47: vim/_defaults.lua:345>
+                 :next
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]<C-L>      * <Lua 45: vim/_defaults.lua:336>
+                 :lnfile
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]L          * <Lua 43: vim/_defaults.lua:328>
+                 :llast
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]l          * <Lua 41: vim/_defaults.lua:320>
+                 :lnext
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]<C-Q>      * <Lua 39: vim/_defaults.lua:311>
+                 :cnfile
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]Q          * <Lua 37: vim/_defaults.lua:303>
+                 :clast
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]D          * <Lua 31: vim/_defaults.lua:259>
+                 Jump to the last diagnostic in the current buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]d          * <Lua 1061: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:123>
+                 Next Diagnostic
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  al            <Lua 912: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around last textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  an            <Lua 911: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around next textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  al            <Lua 908: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around last textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  an            <Lua 907: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around next textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  a             <Lua 905: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  a             <Lua 903: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Around textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ai          * <Lua 783: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:785>
+                 full scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ai          * <Lua 782: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:785>
+                 full scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  a%            <Plug>(MatchitVisualTextObject)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 86
+n  dk          * d1k
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  dj          * d1j
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  f           * <Lua 583: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  f           * <Lua 582: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  f           * <Lua 795: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gcO         * O<Esc>Vcx<Esc><Cmd>normal gcc<CR>fxa<BS>
+                 Add Comment Above
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gco         * o<Esc>Vcx<Esc><Cmd>normal gcc<CR>fxa<BS>
+                 Add Comment Below
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  gh          * <Cmd>lua MiniDiff.textobject()<CR>
+                 Hunk range textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gH          * <Lua 973: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.diff/lua/mini/diff.lua:1011>
+                 Reset hunks
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gH          * <Lua 972: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.diff/lua/mini/diff.lua:1011>
+                 Reset hunks
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gh          * <Lua 971: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.diff/lua/mini/diff.lua:1009>
+                 Apply hunks
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gh          * <Lua 970: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.diff/lua/mini/diff.lua:1009>
+                 Apply hunks
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  g]            <Lua 902: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1233>
+                 Move to right "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  g]            <Lua 901: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1233>
+                 Move to right "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  g]            <Lua 900: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1233>
+                 Move to right "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  g[            <Lua 899: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1232>
+                 Move to left "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  g[            <Lua 898: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1232>
+                 Move to left "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  g[            <Lua 897: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1232>
+                 Move to left "around"
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  g%            <Plug>(MatchitOperationBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 75
+x  g%            <Plug>(MatchitVisualBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 73
+n  g%            <Plug>(MatchitNormalBackward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 71
+n  gP          * <Lua 376: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text Before Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gp          * <Lua 374: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text After Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gP          * <Lua 373: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text Before Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gp          * <Lua 365: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text After Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  g<C-A>      * <Lua 352: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Increment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  g<C-X>      * <Lua 348: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Decrement
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  g<C-X>      * <Lua 346: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Decrement
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  g<C-A>      * <Lua 345: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Increment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsa         * <Lua 237: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Add Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsr         * <Lua 236: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Replace Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsn         * <Lua 235: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Update `MiniSurround.config.n_lines`
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsd         * <Lua 234: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Delete Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsf         * <Lua 233: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Find Right Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsh         * <Lua 232: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Highlight Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gsF         * <Lua 231: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Find Left Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gsa         * <Lua 230: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Add Surrounding
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  gg          * <Lua 26: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/systems/move.lua:2>
+                 Jump to line (default 1)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gg          * <Lua 28: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/systems/move.lua:2>
+                 Jump to line (default 1)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  gd          * "+d
+                 Delete selection to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  gy          * "+y
+                 Yank selection to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gdd         * "+dd
+                 Delete line to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gyy         * "+yy
+                 Yank line to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gO          * <Lua 22: vim/_defaults.lua:216>
+                 vim.lsp.buf.document_symbol()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  grt         * <Lua 21: vim/_defaults.lua:212>
+                 vim.lsp.buf.type_definition()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gri         * <Lua 20: vim/_defaults.lua:208>
+                 vim.lsp.buf.implementation()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  grr         * <Lua 19: vim/_defaults.lua:204>
+                 vim.lsp.buf.references()
+	Last set from Lua (run Nvim with -V1 for more details)
+x  gra         * <Lua 18: vim/_defaults.lua:200>
+                 vim.lsp.buf.code_action()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gra         * <Lua 17: vim/_defaults.lua:200>
+                 vim.lsp.buf.code_action()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  grn         * <Lua 16: vim/_defaults.lua:196>
+                 vim.lsp.buf.rename()
+	Last set from Lua (run Nvim with -V1 for more details)
+o  gc          * <Cmd>lua MiniComment.textobject()<CR>
+                 Comment textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gcc         * <Lua 13: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.comment/lua/mini/comment.lua:442>
+                 Comment line
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gc          * <Lua 12: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.comment/lua/mini/comment.lua:436>
+                 Comment selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  gc          * <Lua 960: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.comment/lua/mini/comment.lua:436>
+                 Comment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  gx          * <Lua 11: vim/_defaults.lua:157>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gx          * <Lua 10: vim/_defaults.lua:149>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+	Last set from Lua (run Nvim with -V1 for more details)
+o  il            <Lua 914: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside last textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  in            <Lua 913: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside next textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  il            <Lua 910: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside last textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  in            <Lua 909: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside next textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  i             <Lua 906: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  i             <Lua 904: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/mini.ai/lua/mini/ai.lua:1236>
+                 Inside textobject
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  ii          * <Lua 781: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:785>
+                 inner scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  ii          * <Lua 772: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/snacks.nvim/lua/snacks/scope.lua:785>
+                 inner scope
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  j           * v:count == 0 ? 'gj' : 'j'
+                 Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  j           * v:count == 0 ? ( &wrap ? 'gj' : 'j' ) : 'j'
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  j           * v:count == 0 ? 'gj' : 'j'
+                 Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  k           * v:count == 0 ? 'gk' : 'k'
+                 Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  k           * v:count == 0 ? ( &wrap ? 'gk' : 'k' ) : 'k'
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  k           * v:count == 0 ? 'gk' : 'k'
+                 Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  n           * 'Nn'[v:searchforward]
+                 Next Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  n           * 'Nn'[v:searchforward]
+                 Next Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  n           * 'Nn'[v:searchforward].'zv'
+                 Next Search Result
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  p           * <Lua 370: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text After Cursor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  p           * <Lua 358: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Put Text After Cursor
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  r           * <Lua 127: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:40>
+                 Remote Flash
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  s           * <Lua 125: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:38>
+                 Flash
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  s           * <Lua 124: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:38>
+                 Flash
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  s           * <Lua 123: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:38>
+                 Flash
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  t           * <Lua 590: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  t           * <Lua 591: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  t           * <Lua 592: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/flash.nvim/lua/flash/plugins/char.lua:118>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  y           * <Lua 369: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Yank Text
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  y           * <Lua 354: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Yank Text
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <Plug>BlinkCmpDotRepeatHack * <Lua 1693: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/blink.cmp/lua/blink/cmp/lib/text_edits.lua:316>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>BlinkCmpDotRepeatHack * <Lua 1702: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/blink.cmp/lua/blink/cmp/lib/text_edits.lua:316>
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-jump-prev * <Lua 1521: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:57>
+                 LuaSnip: Jump to the previous node
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-jump-next * <Lua 1520: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:54>
+                 LuaSnip: Jump to the next node
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-prev-choice * <Lua 1519: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:51>
+                 LuaSnip: Change to the previous choice from the choiceNode
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-next-choice * <Lua 1518: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:48>
+                 LuaSnip: Change to the next choice from the choiceNode
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-expand-snippet * <Lua 1517: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:45>
+                 LuaSnip: Expand the current snippet
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-expand-or-jump * <Lua 1516: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:42>
+                 LuaSnip: Expand or jump in the current snippet
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+   <Plug>luasnip-expand-repeat * <Lua 1514: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:35>
+                 LuaSnip: Repeat last node expansion
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+n  <Plug>luasnip-delete-check * <Lua 1512: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua:28>
+                 LuaSnip: Removes current snippet from jumplist
+	Last set from D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LuaSnip/plugin/luasnip.lua (run Nvim with -V1 for more details)
+x  <M-d>       * <Lua 1059: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:29>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <M-d>       * <Lua 1060: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:29>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <M-u>       * <Lua 1054: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:26>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <M-u>       * <Lua 1051: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:26>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <C-X>       * <Lua 349: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:21>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <C-U>       * <Lua 1034: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:11>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-U>       * <Lua 1033: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:11>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <C-D>       * <Lua 1032: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:5>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-D>       * <Lua 1030: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:5>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <S-Tab>     * <Cmd>BufferLineCyclePrev<CR>
+                 Previous Buffer
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-_>       * <Lua 959: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:193>
+                 which_key_ignore
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-/>       * <Lua 957: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/config/keymaps.lua:192>
+                 Terminal (Root Dir)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-S>       * <Cmd>w<CR><Esc>
+                 Save File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <C-S>       * <Cmd>w<CR><Esc>
+                 Save File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <M-k>       * :<C-U>execute "'<,'>move '<-" . (v:count1 + 1)<CR>gv=gv
+                 Move Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <M-j>       * :<C-U>execute "'<,'>move '>+" . v:count1<CR>gv=gv
+                 Move Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <M-k>       * <Cmd>execute 'move .-' . (v:count1 + 1)<CR>==
+                 Move Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <M-j>       * <Cmd>execute 'move .+' . v:count1<CR>==
+                 Move Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-Right>   * <Cmd>vertical resize +2<CR>
+                 Increase Window Width
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-Left>    * <Cmd>vertical resize -2<CR>
+                 Decrease Window Width
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-Down>    * <Cmd>resize -2<CR>
+                 Decrease Window Height
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-Up>      * <Cmd>resize +2<CR>
+                 Increase Window Height
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-K>       * <C-W>k
+                 Go to Upper Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-J>       * <C-W>j
+                 Go to Lower Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-H>       * <C-W>h
+                 Go to Left Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Up>        * v:count == 0 ? 'gk' : 'k'
+                 Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Up>        * v:count == 0 ? 'gk' : 'k'
+                 Up
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Down>      * v:count == 0 ? 'gj' : 'j'
+                 Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <Down>      * v:count == 0 ? 'gj' : 'j'
+                 Down
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-F>       * <Lua 249: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:233>
+                 Scroll Forward
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-B>       * <Lua 248: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:234>
+                 Scroll Backward
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+s  <C-B>       * <Lua 244: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:234>
+                 Scroll Backward
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+s  <C-F>       * <Lua 242: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:233>
+                 Scroll Forward
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-W><Space> * <Lua 225: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:114>
+                 Window Hydra Mode (which-key)
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+o  <C-Space>   * <Lua 132: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:45>
+                 Treesitter Incremental Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-Space>   * <Lua 131: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:45>
+                 Treesitter Incremental Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <C-Space>   * <Lua 120: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/LazyVim/lua/lazyvim/plugins/editor.lua:45>
+                 Treesitter Incremental Selection
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 67
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 64
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 63
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 62
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 61
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 60
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 59
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 56
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 55
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 54
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 52
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 51
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+	Last set from D:\Windows\PackageManager\Scoop\apps\neovim\current\share\nvim\runtime\pack\dist\opt\matchit\plugin\matchit.vim line 50
+v  <C-A>       * <Lua 350: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Increment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-A>       * <Lua 347: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Increment
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <C-L>       * <Esc>
+                 Back to normal mode in insert, visual, command mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+s  <C-X>       * <Lua 351: D:/Shared/XDG_HOME/XDG_DATA_HOME/nvim-data/lazy/lazy.nvim/lua/lazy/core/handler/keys.lua:121>
+                 Decrement
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+v  <C-C>       * "+y
+                 Yank selection to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-X>       * <Lua 217: D:/Shared/XDG_HOME/XDG_CONFIG_HOME/nvim/lua/keymaps/plugins/editor/multi-cursor.lua:21>
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-C>       * "+yy
+                 Yank line to system clipboard
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-W><C-D>    <C-W>d
+                 Show diagnostics under the cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-W>d      * <Lua 33: vim/_defaults.lua:267>
+                 Show diagnostics under the cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+v  <S-Tab>     * <gv
+                 Indent left in visual mode
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+s  <C-S>       * <Cmd>w<CR><Esc>
+                 Save File
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)
+n  <C-L>       * <C-W>l
+                 Go to Right Window
+	Last set from D:\Shared\XDG_HOME\XDG_CONFIG_HOME\nvim\init.lua (run Nvim with -V1 for more details)

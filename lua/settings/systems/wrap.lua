@@ -1,0 +1,28 @@
+-- lua/config/wrap.lua
+-- Cập nhật: sửa cách set whichwrap, dùng vim.opt/vim.wo đúng chỗ,
+-- thêm mapping để j/k di chuyển theo visual-line khi wrap bật,
+-- và giữ toggle wrap tiện dụng.
+
+-- local M = {}
+--
+-- function M.setup()
+-- 	-- Thiết lập mặc định (global defaults)
+-- 	vim.opt.wrap = true
+-- 	vim.opt.linebreak = true
+-- 	vim.opt.breakindent = true
+-- 	vim.opt.showbreak = "↪ "
+-- 	-- append giá trị cho whichwrap (đúng cách)
+-- 	vim.opt.whichwrap:append("<,>,[,],h,l")
+--
+-- 	-- Di chuyển theo visual-line khi wrap bật.
+-- 	-- Nếu có count thì vẫn tôn trọng count (ví dụ 2j vẫn là 2 logical lines).
+-- 	local opts = { expr = true, silent = true }
+-- 	local j_expr = "v:count == 0 ? ( &wrap ? 'gj' : 'j' ) : 'j'"
+-- 	local k_expr = "v:count == 0 ? ( &wrap ? 'gk' : 'k' ) : 'k'"
+--
+-- 	vim.keymap.set({ "n", "x", "o" }, "j", j_expr, opts)
+-- 	vim.keymap.set({ "n", "x", "o" }, "k", k_expr, opts)
+-- end
+--
+-- M.setup()
+-- return M
