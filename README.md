@@ -32,3 +32,4 @@ Dùng khi clone config lên server không có màn hình (không có Go, Node 22
 - Tắt copilot, claudecode, flutter, markdown-preview, pio, dadbod và mason không tự cài tool.
 - Clipboard dùng OSC52 khi đang ở trong SSH (`SSH_TTY`). Terminal trên máy bạn cần hỗ trợ OSC52 (kitty, WezTerm, Alacritty, Ghostty, foot, Windows Terminal, iTerm2). Nếu dùng tmux, thêm `set -g set-clipboard on` vào `~/.tmux.conf`.
 - Cấu hình chế độ này nằm ở `init.lua` và `lua/plugins/specs/server/lite.lua`.
+- Lite dùng `lazyvim.lite.json` thay cho `lazyvim.json`. File này bỏ các extra `lang.*`, `linting.eslint` và `formatting.prettier`. Chỉ giữ lua và markdown. Khi thêm extra mới, nhớ sửa cả hai file.
