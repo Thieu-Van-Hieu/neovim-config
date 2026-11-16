@@ -21,6 +21,7 @@ return {
   {
     "tpope/vim-dadbod",
     optional = true,
+    enabled = not vim.g.lite,
     setup = function()
       -- Ghi đè autocmd cũ của LazyVim để không gọi 'cmp'
       vim.api.nvim_create_autocmd("FileType", {
@@ -37,6 +38,7 @@ return {
   {
     "saghen/blink.cmp",
     optional = true,
+    enabled = not vim.g.lite,
     dependencies = { "kristijanhusak/vim-dadbod-completion", "saghen/blink.compat" },
     opts = {
       sources = {

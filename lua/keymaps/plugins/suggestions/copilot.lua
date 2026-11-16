@@ -1,3 +1,8 @@
+-- Chế độ server: không có copilot
+if vim.g.lite then
+  return
+end
+
 -- 1. Hàm Toggle cho copilot.lua
 local copilot_utils = require("utils.plugins.suggestions.copilot-utils")
 

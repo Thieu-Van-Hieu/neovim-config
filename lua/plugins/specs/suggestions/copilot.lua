@@ -1,5 +1,6 @@
 return {
   "zbirenbaum/copilot.lua",
+  enabled = not vim.g.lite,
   opts = {
     suggestion = {
       enabled = true,

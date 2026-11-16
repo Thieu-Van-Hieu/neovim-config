@@ -23,3 +23,12 @@ Repo này chủ yếu để dùng cho máy của mình. Có thể tham khảo, n
 ## Ghi chú
 
 - Không lưu mật khẩu hay token trong repo. File `pass.txt` đã bị bỏ khỏi git.
+
+## Chế độ server (`NVIM_LITE=1`)
+
+Dùng khi clone config lên server không có màn hình (không có Go, Node 22, clipboard).
+
+- Bật: thêm `export NVIM_LITE=1` vào `~/.bashrc`, rồi mở `nvim` như bình thường.
+- Tắt copilot, claudecode, flutter, markdown-preview, pio, dadbod và mason không tự cài tool.
+- Clipboard dùng OSC52 khi đang ở trong SSH (`SSH_TTY`). Terminal trên máy bạn cần hỗ trợ OSC52 (kitty, WezTerm, Alacritty, Ghostty, foot, Windows Terminal, iTerm2). Nếu dùng tmux, thêm `set -g set-clipboard on` vào `~/.tmux.conf`.
+- Cấu hình chế độ này nằm ở `init.lua` và `lua/plugins/specs/server/lite.lua`.

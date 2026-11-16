@@ -37,8 +37,9 @@ return {
       ["<Tab>"] = {
         function(cmp)
           -- Nếu Copilot đang hiện ghost text -> Ưu tiên Accept Copilot trước
-          if require("copilot.suggestion").is_visible() then
-            require("copilot.suggestion").accept()
+          local ok, suggestion = pcall(require, "copilot.suggestion")
+          if ok and suggestion.is_visible() then
+            suggestion.accept()
             return true
           end
           -- Nếu không có Copilot mà menu Blink đang mở -> Chọn cái tiếp theo
