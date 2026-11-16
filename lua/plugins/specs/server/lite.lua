@@ -18,7 +18,7 @@ return {
 
   -- Không tự cài tool qua Mason (sqls cần Go, server không có)
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = function(_, opts)
       if lite then
         opts.ensure_installed = {}
@@ -26,11 +26,20 @@ return {
     end,
   },
   {
-    "williamboman/mason-lspconfig.nvim",
+    "mason-org/mason-lspconfig.nvim",
     opts = function(_, opts)
       if lite then
         opts.ensure_installed = {}
         opts.automatic_installation = false
+      end
+    end,
+  },
+  -- LazyVim tự cài qua Mason mọi server trong lspconfig.servers: bỏ sqls khi lite
+  {
+    "neovim/nvim-lspconfig",
+    opts = function(_, opts)
+      if lite and opts.servers then
+        opts.servers.sqls = nil
       end
     end,
   },
